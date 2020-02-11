@@ -1,0 +1,9 @@
+{
+  "usuarios": [
+    {"id": "1", "nome": "Ricardo", "aniversario": 3111977, "email": "ricardo@email.com", "telefone": 1199999999},
+    {"id": "2", "nome": "Daniela", "aniversario": 16021979, "email": "daniela@email.com", "telefone": 1199998888},
+    {"id": "3", "nome": "Julia", "aniversario": 29032009, "email": "julia@email.com", "telefone": 1199997777},
+    {"id": "4", "nome": "Lucas", "aniversario": 14012012, "email": "lucas@email.com", "telefone": 1199996666},
+    {"id": "5", "nome": "Arthur", "aniversario": 31012015, "email": "arthur@email.com", "telefone": 1199995555}
+  ]
+}
